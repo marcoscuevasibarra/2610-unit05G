@@ -1,0 +1,69 @@
+header {
+
+ padding: 2rem $gutter;  
+ h1 { 
+    font-size: 2rem;
+
+ } 
+}
+.allcards {
+   display: flex;
+   flex-wrap: wrap;
+   gap: $gutter;
+
+   section {
+      flex-basis: calc(50% - ($gutter/2));
+   }
+}
+
+
+footer div {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   
+   
+}
+   
+footer div section {
+   border-bottom: none;
+}
+/* inicia bara de menu - ojo se debe poner desde nav con ul y li con a */
+nav {
+   button { display: none;}
+   
+   
+   /* si no incluyo ul.abrir no respeta flex y hace lo mismo que hamburger menu  */
+       ul, ul.abrir {
+           
+           display: flex;
+           justify-content: flex-start;
+           border: none;
+           margin-left: 2vw;
+       
+    
+       }
+    
+       ul li a {
+        border: none;
+       }
+       ul li {
+           border: none;
+       }
+       }
+
+      .hero p { position: absolute; 
+         top: 50%; 
+        
+         color: white ; 
+         /*background: #d3d3d3;*/
+         margin: 0;
+         font-size: 39px;
+         padding: 0 5px;
+         
+         
+     }  
+
+     h3 { 
+      font-size: 29px; }
+
+      h5 {font-size: 25px; }

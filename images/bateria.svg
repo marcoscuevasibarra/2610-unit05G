@@ -1,0 +1,22 @@
+<svg  version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+
+
+
+<polyline points="1,18 3,18 20,18 20,15 20,3 18,3 18,1 16,1 16,3 7,3 7,1 5,1 5,3 3,3  3,18 " stroke="#333" stroke-linecap="round"   fill="none" stroke-linejoin="round"/>
+
+
+<polyline points="4,6 8,6 " stroke="#333"   stroke-linecap="round" stroke-width="1"  fill="none" stroke-linejoin="round"/>
+
+<polyline points="6,4 6,8 " stroke="#333"   stroke-linecap="round" fill="none" stroke-linejoin="round"/>
+
+<polyline points="15,6 19,6 " stroke="#333"  stroke-linecap="round" fill="none" stroke-linejoin="round"/>
+
+<polyline points="3,9 20,9 "   stroke="#333" stroke-linecap="round" fill="none" stroke-linejoin="round"/>
+
+<polyline points="3,15 20,15 "  stroke="#333" stroke-linecap="round" fill="none" stroke-linejoin="round"/>
+
+<polyline points="20,18 22,18 "  stroke="#333" stroke-linecap="round" fill="none" stroke-linejoin="round"/>
+
+
+   <!-- The actual SVG shapes and paths go here -->
+</svg>

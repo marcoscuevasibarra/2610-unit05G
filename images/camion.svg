@@ -1,0 +1,14 @@
+<svg  version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+
+<circle cx="6" cy="17" r="2" stroke-width="1" stroke="#333" fill="none"/>
+<circle cx="16" cy="17" r="2" stroke-width="1" stroke="#333" fill="none"/>
+<line x1="9" y1="17" x2="13" y2="17" stroke="#333" stroke-linecap="round"/>
+<polyline points="19,17 21,17 21,15 17,11 14,11 13,9 1,9 1,14 20,14  " stroke="#333" stroke-linecap="round" fill="none" stroke-linejoin="round"/>
+
+<polyline points="13,14 13,11 16,11 16,14  " stroke="#333" stroke-linecap="round" fill="none" stroke-linejoin="round"/>
+
+
+<polyline points="2,14 2,17 3,17  " stroke="#333" stroke-linecap="round" fill="none" stroke-linejoin="round"/>
+
+   <!-- The actual SVG shapes and paths go here -->
+</svg>
